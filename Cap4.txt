@@ -1,0 +1,1 @@
+Este archivo es creado desde la rama sideBranch. Al cambiar a la rama Master, este archivo no debe ser visible. A menos de que ya se hayan merged.
